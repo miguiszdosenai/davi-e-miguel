@@ -81,7 +81,7 @@ def MARCAR_COMO_ENTREGUE():
 
 def MENU():
     while True:
-        print(f'{CIANO_CLARO}===== SISTEMA DE SESSÕES DE DOAÇÕES ====={RESET}')
+        print(f'{CIANO_CLARO}===== SISTEMA DE GERENCIAMENTO DE DOAÇÕES ====={RESET}')
         print(f'{AZUL_CLARO}1. REGISTRAR DOAÇÃO')
         print(f'2. VER TODAS DOAÇÕES ')
         print(f'3. CONSULTAR POR TIPO')
